@@ -1,5 +1,5 @@
 {
-  "name": "bull-board",
+  "name": "@samuel/bull-board",
   "version": "2.1.3",
   "description": "Bull queue UI for inspecting jobs",
   "keywords": [
@@ -9,11 +9,11 @@
     "monitoring"
   ],
   "bugs": {
-    "url": "https://github.com/felixmosh/bull-board/issues"
+    "url": "https://github.com/samuelcastro/bull-board/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/felixmosh/bull-board.git"
+    "url": "https://github.com/samuelcastro/bull-board.git"
   },
   "license": "MIT",
   "author": "Vitor Capretz <capretzvitor@gmail.com>",
